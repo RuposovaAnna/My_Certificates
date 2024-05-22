@@ -1,5 +1,5 @@
 # My_Certificates
-Here are my training certificates
+Here are my training certificates, achievements and letter of thanks.
 
 
 #### 🎓 Сертификаты :
