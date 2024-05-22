@@ -7,6 +7,8 @@ Here are my training certificates, achievements and letter of thanks.
 <p align="center">
   <img width="650" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15148393/default.pdf">
 </p> 
+
+
 [Профессия Data Analyst](https://drive.google.com/file/d/1Ir8avVqOKzWPisy4r_-qZjrjmFcPpgl3/view?usp=sharing "Ссылка на сертификат") 
 
 <p align="center">
